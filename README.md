@@ -73,5 +73,11 @@ g++ -std=c++11 main.cpp GraphicBoard.cpp Ship.cpp BattleshipPlayer.cpp Board.cpp
 - Sound effects for better immersion
 - Additional UI enhancements
 
+## Demo
+
+
+https://github.com/user-attachments/assets/773c0d17-490a-48ba-9df9-e5922d62b0e9
+
+
 ## License
 This project is open-source under the MIT License.
